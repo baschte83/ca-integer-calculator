@@ -1,3 +1,4 @@
+@ All work done by Ehsan Moslehi and Sebastian Baumann
 @ This is our addition function named intadd
 
 	.global	intadd

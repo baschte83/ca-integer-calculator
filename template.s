@@ -1,7 +1,7 @@
     .syntax unified
 
     @ Template file for Lab 3
-    @ Sebastian Baumann, Korbinian Karl, Ehsan Moslehi
+    @ Sebastian Baumann, Ehsan Moslehi
 
     .arch armv7
     .fpu vfp 

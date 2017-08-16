@@ -1,7 +1,7 @@
     .syntax unified
 
     @ Template file for Lab 2 Integer Calculator
-    @ by students Sebastian Baumann, Korbinian Karl, Ehsan Moslehi
+    @ by students Sebastian Baumann, Ehsan Moslehi
 
     .arch armv6
     .fpu vfp

@@ -1,3 +1,4 @@
+@ All work done by Ehsan Moslehi and Sebastian Baumann
 @ This is our multiplication function named intmul
 
 	.global intmul

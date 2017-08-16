@@ -1,3 +1,4 @@
+@ All work done by Ehsan Moslehi and Sebastian Baumann
 @ This is our subtract function named intsub
 
 @ To calculate "a - b" we negate one of the operands (we decided to use the second one, 
